@@ -1,0 +1,23 @@
+.grid {
+  margin: 100px 0 0;
+  color: #ffffff; /* Text color */
+  border: none; /* Remove border */
+  padding: 10px 15px; /* Adjust padding */
+  font-size: 16px; /* Font size */
+}
+
+.visualize-button {
+  background-color: #4ea5e0; /* Button background color */
+  color: #ffffff; /* Text color */
+  border: none; /* Remove border */
+  padding: 10px 20px; /* Adjust padding */
+  font-size: 16px; /* Font size */
+  border-radius: 5px; /* Add border radius */
+  cursor: pointer; /* Change cursor to pointer on hover */
+  transition: background-color 0.3s ease; /* Add transition for smoother hover effect */
+  margin-top: 30px;
+}
+
+.visualize-button:hover {
+  background-color: #518fb8; /* Darker hover background color */
+}
