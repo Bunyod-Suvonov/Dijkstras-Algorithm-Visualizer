@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.01982695.css",
-    "main.js": "/static/js/main.1412af46.js",
-    "static/js/592.e3e0a292.chunk.js": "/static/js/592.e3e0a292.chunk.js",
-    "index.html": "/index.html",
-    "main.01982695.css.map": "/static/css/main.01982695.css.map",
-    "main.1412af46.js.map": "/static/js/main.1412af46.js.map",
-    "592.e3e0a292.chunk.js.map": "/static/js/592.e3e0a292.chunk.js.map"
+    "main.css": "/Dijkstras-Algorithm-Visualizer/static/css/main.01982695.css",
+    "main.js": "/Dijkstras-Algorithm-Visualizer/static/js/main.250f169f.js",
+    "static/js/592.e3e0a292.chunk.js": "/Dijkstras-Algorithm-Visualizer/static/js/592.e3e0a292.chunk.js",
+    "index.html": "/Dijkstras-Algorithm-Visualizer/index.html",
+    "main.01982695.css.map": "/Dijkstras-Algorithm-Visualizer/static/css/main.01982695.css.map",
+    "main.250f169f.js.map": "/Dijkstras-Algorithm-Visualizer/static/js/main.250f169f.js.map",
+    "592.e3e0a292.chunk.js.map": "/Dijkstras-Algorithm-Visualizer/static/js/592.e3e0a292.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.01982695.css",
-    "static/js/main.1412af46.js"
+    "static/js/main.250f169f.js"
   ]
 }
