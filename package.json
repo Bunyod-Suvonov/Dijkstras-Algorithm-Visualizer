@@ -1,6 +1,7 @@
 {
   "name": "dijkstras",
   "version": "0.1.0",
+  "homepage": "https://bunyod-suvonov.github.io/Dijkstras-Algorithm-Visualizer/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
